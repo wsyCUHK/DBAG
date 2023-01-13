@@ -7,7 +7,7 @@ S. Wang, S. Bi and Y. -J. A. Zhang, "Edge Video Analytics with Adaptive Informat
 
 This is also a updated Transformer Model for DRL in communications. Please also refer to the previous work <a href="https://github.com/wsyCUHK/SACCT">Deep Reinforcement Learning With Communication Transformer for Adaptive Live Streaming in Wireless Edge Networks</a> in JSAC.
 
-##Usage
+## Usage
 You may try the following command:
 python DBAG.py --clr=0.0025 --alr=0.00025 --nstep=3 --gamma=0.6  --device=cuda:0 --replay_size=1024 --drop=0.5  --num_steps=5000 --seed=1 --embedding_size=128 --layers=1 --num_header=4 --target_update_interval=1 --history_length=10 --filename=your_name --automatic_entropy_tuning=True --eta=0.6 --start_steps=2000 --user=3 --maxep=300 --dataset=SelfDriving
 
