@@ -3,7 +3,7 @@
 ## Introduction
 This is the implementations related to our paper 
 
-S. Wang, S. Bi and Y. -J. A. Zhang, "Edge Video Analytics with Adaptive Information Gathering: A Deep Reinforcement Learning Approach," Accepted by  IEEE Transactions on Wireless Communications.
+S. Wang, S. Bi and Y. -J. A. Zhang, " <a href="https://ieeexplore.ieee.org/document/10025689">Edge Video Analytics with Adaptive Information Gathering: A Deep Reinforcement Learning Approach</a>," Accepted by  IEEE Transactions on Wireless Communications.
 
 This is also a updated Transformer Model for DRL in communications. Please also refer to the previous work <a href="https://github.com/wsyCUHK/SACCT">Deep Reinforcement Learning With Communication Transformer for Adaptive Live Streaming in Wireless Edge Networks</a> in JSAC.
 
@@ -24,4 +24,15 @@ Shuoyao Wang, sywang[AT]szu[DOT]edu[DOT]cn :Shuoyao Wang received the B.Eng. deg
 
 This is a co-work with Suzhi Bi and Yingjun Angela Zhang.
 
+##Citation
+If the implementation helps, you might cite our paper with the following format:
 
+@ARTICLE{10025689,
+  author={Wang, Shuoyao and Bi, Suzhi and Zhang, Ying-Jun Angela},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Edge Video Analytics with Adaptive Information Gathering: A Deep Reinforcement Learning Approach}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TWC.2023.3237202}}
