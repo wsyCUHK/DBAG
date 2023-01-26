@@ -24,7 +24,7 @@ Shuoyao Wang, sywang[AT]szu[DOT]edu[DOT]cn :Shuoyao Wang received the B.Eng. deg
 
 This is a co-work with Suzhi Bi and Yingjun Angela Zhang.
 
-##Citation
+## Citation
 If the implementation helps, you might cite our paper with the following format:
 
 @ARTICLE{10025689,
